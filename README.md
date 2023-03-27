@@ -16,4 +16,4 @@ If you have already [tampermonkey](https://tampermonkey.net/index.php ) installe
 ## Credits
 
 Big thanks for all user of Polski Kryptoznaczek (Polish Crypto Stamp) discord channel https://discord.com/invite/YWpAGBwhqa
-Special thanks for rutilicus#9148 for mentoring (He is better then phil and for free;).
+Special thanks for rutilicus#9148 for mentoring (He is better then Phil and for free;).
