@@ -18,7 +18,7 @@ $(document).ready(function() {
       if ($(this).attr('data-testid') === 'featured-section-description') {
         // Add css style for matching span element
         $(this).css("white-space", "pre-wrap");
-        // Print content of modificated element to console to verify if we change good elements on page.
+        // Print the content of the modified element to the console to verify if we have changed the correct elements on the page
         console.log($(this).text())
       }
     });
